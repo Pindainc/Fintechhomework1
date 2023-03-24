@@ -1,4 +1,4 @@
-#intech Homework
+#FINTECH DISRUPTS LENDING
 
 
 ![Aave](./Fintech1Images/aave.png)
@@ -55,6 +55,8 @@ Decentralized finance has experienced significant growth and innovation over the
 
 Some of the other major companies in the DeFi lending space include Compound, MakerDAO, and Uniswap.
 
+“The first wave of DeFi solutions created the foundation for a new era of finance. The second generation builds on this, learning from the challenges encountered and enhances functionality of first-gen protocols and widens the reach to traditional institutions,” says Rachid Ajaja, founder & CEO at AllianceBlock in The Netherlands.git git 
+
 
 ## Results
 
@@ -99,32 +101,18 @@ In terms of revenue or protocol fees, Aave has also been performing well relativ
 • Expand Aave's offerings to include tokenized real-world assets to attract a broader range of investors and increase the total value locked in the protocol.
 • Partner with tokenization platforms like RealT, Tokensoft, or tZERO
 
-Why do you think that offering this product or service would benefit the company?
 DeFi has to produce, in other words, and not just be a place investors can park some capital and make yield. It has to answer the question of – why would I want to borrow in this currency or lend to someone in it? Why would I want to transfer money to someone in Timbuktu on this platform, in their token, instead of through a bank wire, straight to a bank the end-user has worked with for years?
 
 Among the doubts, DeFi is finding its users.
+ 
+As said by Ajaja "several core challenges need to be addressed in the DeFi world. Developers need to build better infrastructure to make it easier to build programs; market participants need better industry standards such as implementing know your customer rules; and “identity management” without compromising on the core tenets of decentralization."
 
-What technologies would this additional product or service utilize? 
-Ajaja says several core challenges need to be addressed in the DeFi world. Developers need to build better infrastructure to make it easier to build programs; market participants need better industry standards such as implementing know your customer rules; and “identity management” without compromising on the core tenets of decentralization.
-
-Why are these technologies appropriate for your solution?
 “DeFi is inherently complicated,” Ajaja says. “Tackling these challenges will reduce the barriers to entry.”
-
-What will it take to make the idea adoptable? 
-“The first wave of DeFi solutions created the foundation for a new era of finance. The second generation builds on this, learning from the challenges encountered and enhances functionality of first-gen protocols and widens the reach to traditional institutions,” says Rachid Ajaja, founder & CEO at AllianceBlock in The Netherlands.
-
-
-
-
-
-“The ‘when’ depends on how soon regulation takes place,” says John Patrick Mullin, Co-Founder & Co-CEO of SOMA.finance, an SEC-compliant multi-asset decentralized exchange platform. “The masses tend to adopt new products when they see that they’re backed by legitimate organizations,” he says. “I think centralized finance and the new decentralized finance companies will have to work together to bring the best of both worlds – you get financial freedom from DeFi, and you get the sense of security from centralized finance.”
 
 DeFi might become a household name when the big, well-known centralized finance companies (or CeFi in crypto parlance) join hands. CeFi is also crypto. Coinbase is a CeFi company. Account holders can earn interest on savings at Coinbase, borrow money in cryptocurrency and spend with a debit card linked to your balance with Coinbase. Decentralized finance is similar: you can do most things that traditional banks and CeFi firms support — earn interest, lend, trade assets and more. It is also global, peer-to-peer lending.
 
-“CeFi is getting squeezed from both sides. On the one hand, they are entering a market where users are accustomed to zero fees, peer-to-peer transfers, and a self-custody experience,” says Kevin Lepsoe, Founder of Infinity Exchange, an institutional lending Protocol for Web3 based out of London. “On the other hand, they’re dealing with governments (with their CBDCs) and corporates who want direct access to the capital markets. It is critical that CeFi invest in DeFi, and encourage regulation to stay relevant and validate their continued existence.”
+“The ‘when’ depends on how soon regulation takes place,” says John Patrick Mullin, Co-Founder & Co-CEO of SOMA.finance, an SEC-compliant multi-asset decentralized exchange platform. “The masses tend to adopt new products when they see that they’re backed by legitimate organizations,” he says. “I think centralized finance and the new decentralized finance companies will have to work together to bring the best of both worlds – you get financial freedom from DeFi, and you get the sense of security from centralized finance.”
 
 So the “merge” will be a hybrid of DeFi and CeFi crypto lending platforms. And the company that does this with DeFi will likely be the company that makes DeFi a branded product line that’s part of a bigger player – be it Coinbase or Crypto.com.
 
 “DeFi and CeFi are inherently complementary in nature and offer differentiated financial services and products that solve different needs,” says Lucas Huang, co-founder of DeFi lending protocol Aurigami in Dubai.
-
- Fintechhomework1
